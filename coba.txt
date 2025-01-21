@@ -1,3 +1,5 @@
-SELECT sales_id
+SELECT *
 FROM sales s, product p
 WHERE s.product_id=p.product_id;
+
+//comment
